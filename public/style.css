@@ -1,0 +1,45 @@
+#a{
+border: 10px solid rgb(3, 46, 78);
+height: 350px;
+width: 1040px;
+margin-left: 100px;
+}
+#b{
+    border: 10px solid rgb(148, 182, 221);
+    height: 300px;
+    width: 500px;
+    z-index: 1;
+
+}
+#c{
+    border: 10px solid rgb(148, 182, 221);
+    height: 300px;
+    width: 500px;
+    position: relative;
+    left: 520px;
+    bottom: 320px;
+    z-index: 2;
+}
+#d{
+    z-index: 5;
+    
+    height: 40px;
+    width: 1040px;
+    border: 0px solid black;
+    position: absolute;
+    top: 323px;
+    left: 125px;
+    padding: 0;
+   
+}
+h4{
+    
+        font-family: "Abel", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+#sub{
+    color: rgb(183, 20, 20);
+}

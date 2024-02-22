@@ -1,0 +1,1 @@
+alert("Actual reality of Artificial Intelligence")

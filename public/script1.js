@@ -1,0 +1,1 @@
+alert("AI : I will destroy your world ☠☠")
