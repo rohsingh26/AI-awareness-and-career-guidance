@@ -30,7 +30,9 @@ margin-left: 1%;
     font-size: 25px;
   }
   #g{
-    margin-left: 25%;
+    margin-left: 0;
+    height: 400px;
+    width: 100%;
   }
   h3{
     color: white;
